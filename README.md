@@ -7,7 +7,7 @@ References:
 - 
 
 Part 1:
-
+- made fireball spawner and player movement
 Part 2:
 - World Reflection with edited intensity
 - this shader was used here because the pillars looked somewhat shiney in the original
@@ -29,4 +29,5 @@ Part 6:
 - General Purpose Color and Texture
 
 Part 7:
--rim ligth shader to make the fireball glow
+- rim ligth shader to make the fireball glow
+
